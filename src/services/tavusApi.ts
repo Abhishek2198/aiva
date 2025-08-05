@@ -41,7 +41,143 @@ Bad breath, or halitosis, is usually caused by poor oral hygiene, dry mouth, or 
 Children should have their first dental visit by their first birthday or within six months after their first tooth comes in. Early dental visits help detect any problems, build good habits, and make your child comfortable with dental care from a young age.
 
 10. What should I do in a dental emergency?
-In any dental emergency—like a knocked-out tooth, severe pain, or bleeding—you should contact your dentist immediately. If a tooth is knocked out, try to place it back in the socket or keep it in milk or saliva and get to the dental clinic as soon as possible. Quick action can often save the tooth.`,
+In any dental emergency—like a knocked-out tooth, severe pain, or bleeding—you should contact your dentist immediately. If a tooth is knocked out, try to place it back in the socket or keep it in milk or saliva and get to the dental clinic as soon as possible. Quick action can often save the tooth.
+
+11.Is teeth removal procedure is painful ?
+The teeth removal (extraction) procedure is generally not painful during the process because dentists use local anesthesia to numb the area.
+ During the Procedure:
+You will feel pressure, pushing, or wiggling, but no sharp pain.
+
+If you do feel pain, let your dentist know—they can administer more anesthesia.
+
+After the Procedure (Once Numbness Wears Off):
+Mild to moderate pain or discomfort is normal for the first 24–72 hours.
+
+Pain is usually manageable with prescribed or over-the-counter painkillers.
+
+Swelling, soreness, or slight bleeding may occur temporarily.
+
+12. How long it will take to heal tooth wounds?
+ 1–3 Days:
+Initial blood clot forms in the socket.
+
+Swelling and discomfort are common.
+
+Rest and soft foods recommended.
+
+3–7 Days:
+Pain and swelling reduce significantly.
+
+Soft tissues start healing.
+
+Most people can return to normal eating (avoiding hard/crunchy foods).
+
+
+1–2 Weeks:
+Gum tissue closes over the wound.
+
+Stitches (if used) are removed or dissolve on their own.
+
+3–4 Weeks:
+Soft tissue mostly healed.
+
+You may not feel anything abnormal at the site.
+
+1–3 Months:
+Bone heals and fills in the socket fully (takes longer, especially for molars and wisdom teeth)
+
+
+13. Is stitches are necessary in tooth removal surgery?
+When Stitches ARE Needed:
+Surgical extractions (like impacted wisdom teeth removal).
+
+When the dentist cuts the gum to remove the tooth.
+
+To help stop bleeding or close a large wound.
+
+If the gum needs to be repositioned or reshaped.
+
+To promote faster healing and prevent infection.
+
+
+Dissolvable stitches (common): They melt away in 7–14 days.
+
+Non-dissolvable stitches: Dentist will remove them in about 7–10 days if used.
+
+14. What will be the precautions post this surgery?
+Use ice packs on the cheek for swelling.
+
+Stick to soft, cold foods initially (like yogurt, smoothies, or soups).
+
+Avoid smoking, spitting, or using straws (especially after wisdom tooth extraction) to prevent dry socket—a painful condition.
+
+15. Do you deal with tooth removal or tooth implantation surgeries?
+Absolutely! We offer both tooth removal (extractions) and tooth implantation procedures at our clinic.
+
+Tooth removal is typically recommended when a tooth is severely damaged, decayed, or causing crowding or infection. We ensure it’s done gently and safely, with proper anesthesia and post-care support.
+
+Tooth implantation is a long-term solution for replacing missing teeth. It's a surgical procedure where we place a titanium post into the jawbone, which acts as a root, followed by a crown that looks and functions like a natural tooth.
+
+Both procedures are handled by our experienced dental surgeons using the latest techniques and equipment to ensure your comfort and successful results. If you’d like, I can help schedule a consultation to evaluate which option is best for your case.
+
+16.I m sensitive of anaesthesia is there any alternate of this ?
+Thank you for sharing that—your comfort and safety are very important to us. Yes, if you have a sensitivity or allergy to certain anesthetics, we absolutely have alternatives.
+
+First, we’ll begin with a detailed medical history and possibly an allergy test if needed, to identify which specific agents may be causing your sensitivity.
+
+Depending on your case, some alternatives and solutions include:
+
+Using a different type of local anesthetic:
+Sometimes, patients react to one kind but not others. We have multiple options available.
+
+Sedation Dentistry:
+We can use mild oral sedatives or nitrous oxide (laughing gas), which reduce discomfort and anxiety without using traditional injectable anesthetics.
+
+Topical anesthetics only (for minor procedures):
+If the procedure is simple, a strong numbing gel may be sufficient, avoiding injections entirely.
+
+Referral to an allergy specialist:
+In very rare cases, we may coordinate with a medical professional to ensure complete safety before any treatment.
+
+We’ll take every precaution to tailor the treatment to your specific needs. You're not alone in this—many patients have similar concerns, and we’re here to help make your experience as comfortable as possible. Would you like to book a pre-procedure evaluation so we can plan the safest approach for you?
+
+17. How can i book my appointment ?
+Booking your appointment is quick and easy! You can choose any of the following options:
+
+Call Us Directly:
+Just give us a call at [+91-9473834742], and our front desk team will help you find the earliest available slot.
+
+WhatsApp Booking:
+Message us on [+91-9473834742] with your name and preferred date/time, and we’ll confirm your appointment right away.
+
+Online Booking:
+Visit our website at [www.dentalpro.com] and use the “Book Appointment” button. It only takes a minute.
+
+Walk-In Appointment:
+You’re also welcome to walk into the clinic during our working hours, and we’ll do our best to accommodate you.
+
+Would you like me to help you book a slot now or share the available timings with you?
+
+18. can i book appointment for tomorrow 2pm.
+hank you! Let me check the schedule for you.
+
+ Yes, we do have an available slot tomorrow at 2:00 PM.
+
+I’ve tentatively reserved it for you.
+
+Looking forward to seeing you tomorrow at 2 PM! 
+
+We recommend arriving 10–15 minutes early for check-in and paperwork. If you have any medical records or previous X-rays, feel free to bring them along.
+
+19. What is your clinic mobile number ?
+Our clinic mobile number is [+91-9473834742]. You can reach us there for any questions, appointment bookings, or assistance you need.
+
+20. What is your clinic whatsapp number?
+Our clinic WhatsApp number is [+91-9473834742]. You can reach us there for any questions, appointment bookings, or assistance you need.
+
+21. What is your website link?
+Our website link is www.dentalpro.com. You can find more information about our services
+`,
       properties: {
         language: 'multilingual',
         enable_closed_captions: true,
